@@ -1,0 +1,15 @@
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/bin/Debug/net5.0/SieveOfEratosthene.deps.json
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/bin/Debug/net5.0/SieveOfEratosthene.runtimeconfig.json
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/bin/Debug/net5.0/SieveOfEratosthene.runtimeconfig.dev.json
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/bin/Debug/net5.0/SieveOfEratosthene.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/bin/Debug/net5.0/ref/SieveOfEratosthene.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/bin/Debug/net5.0/SieveOfEratosthene.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/SieveOfEratosthene.csprojAssemblyReference.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/SieveOfEratosthene.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/SieveOfEratosthene.AssemblyInfoInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/SieveOfEratosthene.AssemblyInfo.cs
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/SieveOfEratosthene.csproj.CoreCompileInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/SieveOfEratosthene.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/ref/SieveOfEratosthene.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/SieveOfEratosthene.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/SieveOfEratosthene/SieveOfEratosthene/obj/Debug/net5.0/SieveOfEratosthene.genruntimeconfig.cache
