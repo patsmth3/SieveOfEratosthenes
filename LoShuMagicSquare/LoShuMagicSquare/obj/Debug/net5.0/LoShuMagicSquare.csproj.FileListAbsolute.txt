@@ -1,0 +1,15 @@
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/bin/Debug/net5.0/LoShuMagicSquare.deps.json
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/bin/Debug/net5.0/LoShuMagicSquare.runtimeconfig.json
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/bin/Debug/net5.0/LoShuMagicSquare.runtimeconfig.dev.json
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/bin/Debug/net5.0/LoShuMagicSquare.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/bin/Debug/net5.0/ref/LoShuMagicSquare.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/bin/Debug/net5.0/LoShuMagicSquare.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/LoShuMagicSquare.csprojAssemblyReference.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/LoShuMagicSquare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/LoShuMagicSquare.AssemblyInfoInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/LoShuMagicSquare.AssemblyInfo.cs
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/LoShuMagicSquare.csproj.CoreCompileInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/LoShuMagicSquare.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/ref/LoShuMagicSquare.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/LoShuMagicSquare.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/LoShuMagicSquare/LoShuMagicSquare/obj/Debug/net5.0/LoShuMagicSquare.genruntimeconfig.cache
